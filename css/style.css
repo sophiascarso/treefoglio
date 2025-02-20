@@ -107,6 +107,7 @@ img {
   font-weight: bold;
   transition: color 0.3s;
   font-size: 18px;
+  z-index: 1;
 }
 
 .menu li {
